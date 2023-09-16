@@ -1,0 +1,4 @@
+python-dotenv
+typing
+pathlib
+datetime
